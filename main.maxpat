@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 79.0, 1431.0, 1086.0 ],
+		"rect" : [ 115.0, 79.0, 1687.0, 1021.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -197,7 +197,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 117.333320617675781, 357.0, 35.0, 22.0 ],
-					"text" : "1024"
+					"text" : "256"
 				}
 
 			}
@@ -2216,14 +2216,14 @@
 					"presentation_rect" : [ 281.833336000000145, 583.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Storm",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch4-Storm",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Storm"
 						}
 
 					}
@@ -2247,14 +2247,14 @@
 					"presentation_rect" : [ 231.833336000000145, 583.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Rhythm",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch4-Rhythm",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Rhythm"
 						}
 
 					}
@@ -2278,14 +2278,14 @@
 					"presentation_rect" : [ 181.833336000000145, 583.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Drone",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch4-Drone",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Drone"
 						}
 
 					}
@@ -2309,14 +2309,14 @@
 					"presentation_rect" : [ 281.833336000000145, 402.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Storm",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch3-Storm",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Storm"
 						}
 
 					}
@@ -2340,14 +2340,14 @@
 					"presentation_rect" : [ 231.833336000000145, 402.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Rhythm",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch3-Rhythm",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Rhythm"
 						}
 
 					}
@@ -2371,14 +2371,14 @@
 					"presentation_rect" : [ 181.833336000000145, 402.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Drone",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch3-Drone",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Drone"
 						}
 
 					}
@@ -2402,14 +2402,14 @@
 					"presentation_rect" : [ 281.833336000000031, 221.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Storm",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch2-Storm",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Storm"
 						}
 
 					}
@@ -2433,14 +2433,14 @@
 					"presentation_rect" : [ 231.833336000000031, 221.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Rhythm",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch2-Rhythm",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Rhythm"
 						}
 
 					}
@@ -2464,14 +2464,14 @@
 					"presentation_rect" : [ 181.833336000000031, 221.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Drone",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch2-Drone",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Drone"
 						}
 
 					}
@@ -2507,14 +2507,14 @@
 					"presentation_rect" : [ 281.833336000000031, 40.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Storm",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch1-Storm",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Storm"
 						}
 
 					}
@@ -2538,14 +2538,14 @@
 					"presentation_rect" : [ 231.833336000000031, 40.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Rhythm",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch1-Rhythm",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Rhythm"
 						}
 
 					}
@@ -2569,14 +2569,14 @@
 					"presentation_rect" : [ 181.833336000000031, 40.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Drone",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch1-Drone",
 							"parameter_invisible" : 1,
-							"parameter_mmax" : 6.0
+							"parameter_mmax" : 6.0,
+							"parameter_shortname" : "Drone"
 						}
 
 					}
@@ -3079,14 +3079,14 @@
 					"presentation_rect" : [ 372.333336000000145, 583.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Ch4",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch4",
 							"parameter_mmax" : 6.0,
-							"parameter_initial" : [ 0.0 ]
+							"parameter_initial" : [ 0.0 ],
+							"parameter_shortname" : "Ch4"
 						}
 
 					}
@@ -3110,14 +3110,14 @@
 					"presentation_rect" : [ 372.333336000000145, 402.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Ch3",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch3",
 							"parameter_mmax" : 6.0,
-							"parameter_initial" : [ 0.0 ]
+							"parameter_initial" : [ 0.0 ],
+							"parameter_shortname" : "Ch3"
 						}
 
 					}
@@ -3141,14 +3141,14 @@
 					"presentation_rect" : [ 372.333336000000145, 221.0, 48.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Ch2",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch2",
 							"parameter_mmax" : 6.0,
-							"parameter_initial" : [ 0.0 ]
+							"parameter_initial" : [ 0.0 ],
+							"parameter_shortname" : "Ch2"
 						}
 
 					}
@@ -3172,14 +3172,14 @@
 					"presentation_rect" : [ 375.833336000000145, 40.0, 41.0, 136.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Ch1",
 							"parameter_type" : 0,
 							"parameter_unitstyle" : 4,
 							"parameter_linknames" : 1,
 							"parameter_mmin" : -70.0,
 							"parameter_longname" : "Ch1",
 							"parameter_mmax" : 6.0,
-							"parameter_initial" : [ 0.0 ]
+							"parameter_initial" : [ 0.0 ],
+							"parameter_shortname" : "Ch1"
 						}
 
 					}
@@ -4404,13 +4404,13 @@
 					"presentation_rect" : [ 92.500011691162172, 317.5, 50.0, 22.0 ],
 					"saved_attribute_attributes" : 					{
 						"valueof" : 						{
-							"parameter_shortname" : "Interval",
 							"parameter_type" : 3,
 							"parameter_linknames" : 1,
 							"parameter_longname" : "TestOSC_Metro_Interval",
 							"parameter_initial_enable" : 1,
 							"parameter_invisible" : 1,
-							"parameter_initial" : [ 100 ]
+							"parameter_initial" : [ 100 ],
+							"parameter_shortname" : "Interval"
 						}
 
 					}
@@ -5307,70 +5307,98 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-16::obj-3::obj-8::obj-13" : [ "Attack[1]", "Attack", 2 ],
-			"obj-24::obj-3::obj-8::obj-15" : [ "Makeup[2]", "Makeup", 4 ],
-			"obj-24::obj-3::obj-8::obj-55" : [ "Threshold[2]", "Threshold", 0 ],
-			"obj-47::obj-3::obj-8::obj-15" : [ "Makeup", "Makeup", 4 ],
-			"obj-31::obj-3::obj-8::obj-14" : [ "Release[3]", "Release", 3 ],
-			"obj-109" : [ "Ch2-Storm", "Storm", 0 ],
-			"obj-8" : [ "Ch2", "Ch2", 0 ],
-			"obj-16::obj-3::obj-8::obj-55" : [ "Threshold[1]", "Threshold", 0 ],
-			"obj-115" : [ "Ch4-Storm", "Storm", 0 ],
-			"obj-47::obj-3::obj-8::obj-7" : [ "Output Gain", "Output Gain", 5 ],
-			"obj-47::obj-3::obj-8::obj-14" : [ "Release", "Release", 3 ],
-			"obj-24::obj-3::obj-8::obj-14" : [ "Release[2]", "Release", 3 ],
-			"obj-116" : [ "Ch4-Rhythm", "Rhythm", 0 ],
-			"obj-47::obj-3::obj-8::obj-13" : [ "Attack", "Attack", 2 ],
-			"obj-31::obj-3::obj-8::obj-55" : [ "Threshold[3]", "Threshold", 0 ],
-			"obj-117" : [ "Ch4-Drone", "Drone", 0 ],
-			"obj-3" : [ "TestOSC_Metro_Interval", "Interval", 0 ],
-			"obj-112" : [ "Ch3-Storm", "Storm", 0 ],
-			"obj-61" : [ "Ch1-Rhythm", "Rhythm", 0 ],
-			"obj-47::obj-3::obj-8::obj-30" : [ "Ratio", "Ratio", 1 ],
-			"obj-16::obj-3::obj-8::obj-15" : [ "Makeup[1]", "Makeup", 4 ],
-			"obj-24::obj-3::obj-8::obj-30" : [ "Ratio[2]", "Ratio", 1 ],
-			"obj-111" : [ "Ch2-Drone", "Drone", 0 ],
-			"obj-31::obj-3::obj-8::obj-13" : [ "Attack[3]", "Attack", 2 ],
-			"obj-114" : [ "Ch3-Drone", "Drone", 0 ],
-			"obj-9" : [ "Ch3", "Ch3", 0 ],
-			"obj-16::obj-3::obj-8::obj-30" : [ "Ratio[1]", "Ratio", 1 ],
-			"obj-16::obj-3::obj-8::obj-14" : [ "Release[1]", "Release", 3 ],
-			"obj-24::obj-3::obj-8::obj-13" : [ "Attack[2]", "Attack", 2 ],
-			"obj-31::obj-3::obj-8::obj-30" : [ "Ratio[3]", "Ratio", 1 ],
-			"obj-62" : [ "Ch1-Storm", "Storm", 0 ],
-			"obj-16::obj-3::obj-8::obj-7" : [ "Output Gain[1]", "Output Gain", 5 ],
-			"obj-31::obj-3::obj-8::obj-7" : [ "Output Gain[3]", "Output Gain", 5 ],
+			"obj-47::obj-3::obj-8::obj-55" : [ "Threshold", "Threshold", 0 ],
 			"obj-58" : [ "Ch1-Drone", "Drone", 0 ],
 			"obj-110" : [ "Ch2-Rhythm", "Rhythm", 0 ],
-			"obj-7" : [ "Ch1", "Ch1", 0 ],
-			"obj-24::obj-3::obj-8::obj-7" : [ "Output Gain[2]", "Output Gain", 5 ],
-			"obj-31::obj-3::obj-8::obj-15" : [ "Makeup[3]", "Makeup", 4 ],
+			"obj-24::obj-3::obj-8::obj-55" : [ "Threshold[2]", "Threshold", 0 ],
+			"obj-24::obj-3::obj-8::obj-13" : [ "Attack[2]", "Attack", 2 ],
+			"obj-31::obj-3::obj-8::obj-13" : [ "Attack[3]", "Attack", 2 ],
 			"obj-113" : [ "Ch3-Rhythm", "Rhythm", 0 ],
+			"obj-47::obj-3::obj-8::obj-14" : [ "Release", "Release", 3 ],
+			"obj-16::obj-3::obj-8::obj-15" : [ "Makeup[1]", "Makeup", 4 ],
+			"obj-47::obj-3::obj-8::obj-13" : [ "Attack", "Attack", 2 ],
+			"obj-16::obj-3::obj-8::obj-14" : [ "Release[1]", "Release", 3 ],
+			"obj-24::obj-3::obj-8::obj-30" : [ "Ratio[2]", "Ratio", 1 ],
+			"obj-3" : [ "TestOSC_Metro_Interval", "Interval", 0 ],
+			"obj-31::obj-3::obj-8::obj-30" : [ "Ratio[3]", "Ratio", 1 ],
+			"obj-9" : [ "Ch3", "Ch3", 0 ],
+			"obj-16::obj-3::obj-8::obj-30" : [ "Ratio[1]", "Ratio", 1 ],
+			"obj-61" : [ "Ch1-Rhythm", "Rhythm", 0 ],
+			"obj-109" : [ "Ch2-Storm", "Storm", 0 ],
+			"obj-47::obj-3::obj-8::obj-30" : [ "Ratio", "Ratio", 1 ],
+			"obj-24::obj-3::obj-8::obj-7" : [ "Output Gain[2]", "Output Gain", 5 ],
+			"obj-116" : [ "Ch4-Rhythm", "Rhythm", 0 ],
+			"obj-31::obj-3::obj-8::obj-14" : [ "Release[3]", "Release", 3 ],
+			"obj-117" : [ "Ch4-Drone", "Drone", 0 ],
+			"obj-31::obj-3::obj-8::obj-7" : [ "Output Gain[3]", "Output Gain", 5 ],
+			"obj-112" : [ "Ch3-Storm", "Storm", 0 ],
+			"obj-16::obj-3::obj-8::obj-13" : [ "Attack[1]", "Attack", 2 ],
+			"obj-7" : [ "Ch1", "Ch1", 0 ],
+			"obj-115" : [ "Ch4-Storm", "Storm", 0 ],
+			"obj-47::obj-3::obj-8::obj-7" : [ "Output Gain", "Output Gain", 5 ],
+			"obj-111" : [ "Ch2-Drone", "Drone", 0 ],
+			"obj-24::obj-3::obj-8::obj-14" : [ "Release[2]", "Release", 3 ],
+			"obj-31::obj-3::obj-8::obj-55" : [ "Threshold[3]", "Threshold", 0 ],
 			"obj-10" : [ "Ch4", "Ch4", 0 ],
-			"obj-47::obj-3::obj-8::obj-55" : [ "Threshold", "Threshold", 0 ],
+			"obj-62" : [ "Ch1-Storm", "Storm", 0 ],
+			"obj-114" : [ "Ch3-Drone", "Drone", 0 ],
+			"obj-16::obj-3::obj-8::obj-7" : [ "Output Gain[1]", "Output Gain", 5 ],
+			"obj-24::obj-3::obj-8::obj-15" : [ "Makeup[2]", "Makeup", 4 ],
+			"obj-31::obj-3::obj-8::obj-15" : [ "Makeup[3]", "Makeup", 4 ],
+			"obj-47::obj-3::obj-8::obj-15" : [ "Makeup", "Makeup", 4 ],
+			"obj-8" : [ "Ch2", "Ch2", 0 ],
+			"obj-16::obj-3::obj-8::obj-55" : [ "Threshold[1]", "Threshold", 0 ],
 			"parameterbanks" : 			{
 
 			}
 ,
 			"parameter_overrides" : 			{
-				"obj-16::obj-3::obj-8::obj-13" : 				{
-					"parameter_longname" : "Attack[1]"
-				}
-,
-				"obj-24::obj-3::obj-8::obj-15" : 				{
-					"parameter_longname" : "Makeup[2]"
-				}
-,
 				"obj-24::obj-3::obj-8::obj-55" : 				{
 					"parameter_longname" : "Threshold[2]"
+				}
+,
+				"obj-24::obj-3::obj-8::obj-13" : 				{
+					"parameter_longname" : "Attack[2]"
+				}
+,
+				"obj-31::obj-3::obj-8::obj-13" : 				{
+					"parameter_longname" : "Attack[3]"
+				}
+,
+				"obj-16::obj-3::obj-8::obj-15" : 				{
+					"parameter_longname" : "Makeup[1]"
+				}
+,
+				"obj-16::obj-3::obj-8::obj-14" : 				{
+					"parameter_longname" : "Release[1]"
+				}
+,
+				"obj-24::obj-3::obj-8::obj-30" : 				{
+					"parameter_longname" : "Ratio[2]"
+				}
+,
+				"obj-31::obj-3::obj-8::obj-30" : 				{
+					"parameter_longname" : "Ratio[3]"
+				}
+,
+				"obj-16::obj-3::obj-8::obj-30" : 				{
+					"parameter_longname" : "Ratio[1]"
+				}
+,
+				"obj-24::obj-3::obj-8::obj-7" : 				{
+					"parameter_longname" : "Output Gain[2]"
 				}
 ,
 				"obj-31::obj-3::obj-8::obj-14" : 				{
 					"parameter_longname" : "Release[3]"
 				}
 ,
-				"obj-16::obj-3::obj-8::obj-55" : 				{
-					"parameter_longname" : "Threshold[1]"
+				"obj-31::obj-3::obj-8::obj-7" : 				{
+					"parameter_longname" : "Output Gain[3]"
+				}
+,
+				"obj-16::obj-3::obj-8::obj-13" : 				{
+					"parameter_longname" : "Attack[1]"
 				}
 ,
 				"obj-24::obj-3::obj-8::obj-14" : 				{
@@ -5381,48 +5409,20 @@
 					"parameter_longname" : "Threshold[3]"
 				}
 ,
-				"obj-16::obj-3::obj-8::obj-15" : 				{
-					"parameter_longname" : "Makeup[1]"
-				}
-,
-				"obj-24::obj-3::obj-8::obj-30" : 				{
-					"parameter_longname" : "Ratio[2]"
-				}
-,
-				"obj-31::obj-3::obj-8::obj-13" : 				{
-					"parameter_longname" : "Attack[3]"
-				}
-,
-				"obj-16::obj-3::obj-8::obj-30" : 				{
-					"parameter_longname" : "Ratio[1]"
-				}
-,
-				"obj-16::obj-3::obj-8::obj-14" : 				{
-					"parameter_longname" : "Release[1]"
-				}
-,
-				"obj-24::obj-3::obj-8::obj-13" : 				{
-					"parameter_longname" : "Attack[2]"
-				}
-,
-				"obj-31::obj-3::obj-8::obj-30" : 				{
-					"parameter_longname" : "Ratio[3]"
-				}
-,
 				"obj-16::obj-3::obj-8::obj-7" : 				{
 					"parameter_longname" : "Output Gain[1]"
 				}
 ,
-				"obj-31::obj-3::obj-8::obj-7" : 				{
-					"parameter_longname" : "Output Gain[3]"
-				}
-,
-				"obj-24::obj-3::obj-8::obj-7" : 				{
-					"parameter_longname" : "Output Gain[2]"
+				"obj-24::obj-3::obj-8::obj-15" : 				{
+					"parameter_longname" : "Makeup[2]"
 				}
 ,
 				"obj-31::obj-3::obj-8::obj-15" : 				{
 					"parameter_longname" : "Makeup[3]"
+				}
+,
+				"obj-16::obj-3::obj-8::obj-55" : 				{
+					"parameter_longname" : "Threshold[1]"
 				}
 
 			}
@@ -5563,13 +5563,6 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "lowshelf.maxpat",
-				"bootpath" : "~/Development/Max/Patches/lib",
-				"patcherrelativepath" : "../../../Development/Max/Patches/lib",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
 				"name" : "yaritori.rhythm.maxpat",
 				"bootpath" : "~/Sonilab/1905_Yaritori/yaritori_audio_v2",
 				"patcherrelativepath" : ".",
@@ -5619,21 +5612,14 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "drywet.maxpat",
-				"bootpath" : "~/Development/Max/Patches/lib",
-				"patcherrelativepath" : "../../../Development/Max/Patches/lib",
-				"type" : "JSON",
-				"implicit" : 1
-			}
-, 			{
-				"name" : "yaritori.storm.delay.second.maxpat",
+				"name" : "yaritori.drywet.maxpat",
 				"bootpath" : "~/Sonilab/1905_Yaritori/yaritori_audio_v2",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "yaritori.drywet.maxpat",
+				"name" : "yaritori.storm.delay.second.maxpat",
 				"bootpath" : "~/Sonilab/1905_Yaritori/yaritori_audio_v2",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",

@@ -82,6 +82,7 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-123",
@@ -869,7 +870,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 128.0, 100.0, 34.0, 22.0 ],
+									"patching_rect" : [ 145.0, 99.0, 34.0, 22.0 ],
 									"text" : "2.47"
 								}
 
@@ -881,7 +882,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 88.0, 100.0, 38.0, 22.0 ],
+									"patching_rect" : [ 105.0, 99.0, 38.0, 22.0 ],
 									"text" : "-4.83"
 								}
 
@@ -893,7 +894,7 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 55.0, 100.0, 31.0, 22.0 ],
+									"patching_rect" : [ 70.0, 99.0, 31.0, 22.0 ],
 									"text" : "269"
 								}
 
@@ -905,7 +906,7 @@
 									"numinlets" : 0,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 55.0, 67.0, 53.0, 22.0 ],
+									"patching_rect" : [ 70.0, 67.0, 53.0, 22.0 ],
 									"text" : "r #0lb"
 								}
 
@@ -917,8 +918,8 @@
 									"numinlets" : 5,
 									"numoutlets" : 2,
 									"outlettype" : [ "signal", "signal" ],
-									"patching_rect" : [ 34.0, 136.0, 61.0, 22.0 ],
-									"text" : "lowshelf"
+									"patching_rect" : [ 34.0, 136.0, 91.0, 22.0 ],
+									"text" : "yaritori.lowshelf"
 								}
 
 							}
@@ -930,7 +931,7 @@
 									"maxclass" : "outlet",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 92.0, 854.0, 30.0, 30.0 ]
+									"patching_rect" : [ 78.0, 796.0, 30.0, 30.0 ]
 								}
 
 							}
@@ -942,7 +943,7 @@
 									"maxclass" : "outlet",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 34.0, 854.0, 30.0, 30.0 ]
+									"patching_rect" : [ 34.0, 796.0, 30.0, 30.0 ]
 								}
 
 							}
@@ -1265,7 +1266,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-5", 1 ],
-									"midpoints" : [ 139.5, 55.5, 54.0, 55.5 ],
+									"midpoints" : [ 139.5, 55.5, 61.5, 55.5 ],
 									"source" : [ "obj-2", 0 ]
 								}
 
@@ -1338,6 +1339,7 @@
 , 							{
 								"patchline" : 								{
 									"destination" : [ "obj-65", 1 ],
+									"midpoints" : [ 115.5, 181.0, 54.5, 181.0 ],
 									"source" : [ "obj-5", 1 ]
 								}
 
